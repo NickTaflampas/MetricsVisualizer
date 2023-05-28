@@ -24,3 +24,23 @@ The following are self-placed goals, as well as features requested for the purpo
 </ul>
 
 <hr style="width:50%;text-align:left;margin-left:0">  
+<h1> <div align="center"> Set-Up </div> </h1>
+Several things must be done before running the application. First, one should load the needed libraries that are used throughout the code:
+
+<h3> ETL Libraries </h3>
+<a href="https://poi.apache.org/">Apache POI (XML Reading)</a>
+
+<h3> DDL and Visualization Libraries </h3>
+<a href="https://openjfx.io/">JavaFX</a><br>
+MySQL Connector <br><br>
+
+All libraries are included in a JAR form within the ETL-DDL-Libs folder, as well as the Javafx-sdk folder.
+
+<h2> Download Data </h2>
+The given ETL and DDL processes are used to process the instructed country data. Those data can be found on <a href="https://www.kaggle.com/">Kaggle</a> and should be placed on a folder whose path is known to you. <br>
+<ul>
+    <li> <a href="https://www.kaggle.com/datasets/sshashankrajak/countries"> Countries </a> </li>
+    <li> <a href="https://www.kaggle.com/datasets/census/international-data"> Demographic Data </a> </li>
+    <li> <a href="https://www.kaggle.com/datasets/frankmollard/income-by-country"> Economical Data </a> </li>
+</ul>
+
