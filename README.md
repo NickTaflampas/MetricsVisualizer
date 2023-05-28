@@ -69,3 +69,6 @@ There is merit into making a config file for easier access, but for now:
 
 <h1> <div align="center"> Video Demo </div> </h1>
 A simple demo with a brief elaboration on the structure of this project, can be found <a href="https://www.youtube.com/watch?v=cohh_WfydZo">here.</a>
+
+<h1> <div align="center"> Back-Up </div> </h1>
+Several CSV files of the back-up data are included in the repository. They include the data after the ETL process.
