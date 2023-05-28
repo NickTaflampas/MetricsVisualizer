@@ -67,3 +67,5 @@ There is merit into making a config file for easier access, but for now:
     <img src="https://cdn.discordapp.com/attachments/473464812920373250/1112406689845624872/image.png"/> 
 </p>
 
+<h1> <div align="center"> Video Demo </div> </h1>
+A simple demo with a brief elaboration on the structure of this project, can be found <a href="https://www.youtube.com/watch?v=cohh_WfydZo">here.</a>
