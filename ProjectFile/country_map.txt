@@ -1,0 +1,23 @@
+Bahamas;44
+Virgin Islands British;92
+Virgin Islands U.S.;850
+Burma;104
+Verde;132
+Brazzaville;178
+Kinshasa;180
+Gambia;270
+Ivoire;384
+Korea North;408
+Korea South;410
+Macau;446
+Micronesia;583
+Timor;626
+Bolivia;68
+Brunei;96
+Hong Kong;344
+Iran;364
+Moldova;498
+Russia;643
+Syria;760
+Tanzania;834
+Venezuela;862

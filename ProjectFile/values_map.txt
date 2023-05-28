@@ -1,0 +1,30 @@
+Birth Rate (/1k):crude_birth_rate:birth_death_rates
+Death Rate (/1k):crude_death_rate:birth_death_rates
+Migration Rate (/1k):net_migration:birth_death_rates
+Natural Increase Rate (%):rate_natural_increase:birth_death_rates
+Population Growth Rate (%):growth_rate:birth_death_rates
+Total Infant Mortality (/1k):infant_mortality:mortality_life_expectancy
+Male Infant Mortality (/1k):infant_mortality_M:mortality_life_expectancy
+Female Infant Mortality (/1k):infant_mortality_F:mortality_life_expectancy
+Total Life Expectancy:life_expectancy:mortality_life_expectancy
+Male Life Expectancy:life_expectancy_M:mortality_life_expectancy
+Female Life Expectancy:life_expectancy_F:mortality_life_expectancy
+Total Mortality (<5 years):mortality_under5:mortality_life_expectancy
+Male Mortality (<5 years):mortality_under5_M:mortality_life_expectancy
+Female Mortality (<5 years):mortality_under5_F:mortality_life_expectancy
+Total Mortality (1-4 years):mortality_1to4:mortality_life_expectancy
+Male Mortality (1-4 years):mortality_1to4_M:mortality_life_expectancy
+Female Mortality (1-4 years):mortality_1to4_F:mortality_life_expectancy
+Total Fertility Rate:total_fertility_rate:fertility_rates
+Gross Reproduction Rate:gross_reproduction_rate:fertility_rates
+Sex Birth Ratio:sex_birth_ratio:fertility_rates
+Income Index:income_index:income_metrics
+Labour Share GDP:labour_share_GDP:income_metrics
+Gross Fixed Capital Formation:gross_fixed_capital_formation:income_metrics
+GDP Total:GDP_total:income_metrics
+GDP (/capita):GDP_per_capita:income_metrics
+GNI (/capita):GNI_per_capita:income_metrics
+Male GNI Estimate:GNI_estimate_male:income_metrics
+Female GNI Estimate:GNI_estimate_female:income_metrics
+Domestic Credit:domestic_credit:income_metrics
+Population:population:midyear_populations

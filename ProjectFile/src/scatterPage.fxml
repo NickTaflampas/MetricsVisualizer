@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.chart.ScatterChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="572.0" prefWidth="813.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ScatterPlotController">
+   <children>
+      <Button fx:id="linePlotButton" layoutX="700.0" layoutY="29.0" mnemonicParsing="false" onAction="#changeSceneToLineplot" prefHeight="28.0" prefWidth="97.0" text="Line Plot" />
+      <Button fx:id="histogramButton" layoutX="12.0" layoutY="29.0" mnemonicParsing="false" onAction="#changeSceneToHistogram" prefHeight="27.0" prefWidth="103.0" text="Histogram Plot" />
+      <ChoiceBox fx:id="choiceBoxY" layoutX="63.0" layoutY="470.0" prefWidth="216.0" />
+      <ChoiceBox fx:id="choiceBoxYear" layoutX="63.0" layoutY="530.0" prefWidth="216.0" />
+      <Text layoutX="63.0" layoutY="469.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Values" wrappingWidth="97.0" />
+      <Text layoutX="63.0" layoutY="526.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Country" wrappingWidth="97.0" />
+      <ChoiceBox fx:id="choiceBoxX" layoutX="532.0" layoutY="470.0" prefWidth="216.0" />
+      <Text layoutX="532.0" layoutY="469.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Metric" wrappingWidth="97.0" />
+      <Button fx:id="addButton" layoutX="532.0" layoutY="529.0" mnemonicParsing="false" onAction="#addMetric" prefHeight="30.0" prefWidth="85.0" text="Add" />
+      <Button fx:id="clearButton" layoutX="663.0" layoutY="529.0" mnemonicParsing="false" onAction="#clearPlot" prefHeight="30.0" prefWidth="85.0" text="Clear" />
+      <ScatterChart fx:id="scatterPlot" layoutX="17.0" layoutY="61.0" prefHeight="386.0" prefWidth="783.0">
+        <xAxis>
+          <NumberAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </ScatterChart>
+      <Text layoutX="316.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Scatter Plot" textAlignment="CENTER" wrappingWidth="180.5367431640625">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+   </children>
+</Pane>
