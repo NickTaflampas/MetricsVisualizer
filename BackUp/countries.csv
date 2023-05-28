@@ -1,0 +1,253 @@
+"iso";"iso3";"iso_code";"fips";"display_name";"official_name";"capital_name";"continent_name";"currency_code";"currency_name";"phone";"region_code";"region_name";"subregion_code";"subregion_name";"intermediate_region_code";"intermediate_region_name";"current_status";"development_status";"sids";"lldc";"ldc";"area_square_km";"population"
+"XK";"XKX";0;"KV";"Kosovo";"";"Pristina";"Europe";"EUR";"Euro";0;150;"Europe";39;"Southern Europe";0;"";"#N/A";"";0;0;0;10908.0;1800000
+"AF";"AFG";4;"AF";"Afghanistan";"Afghanistan";"Kabul";"Asia";"AFN";"Afghani";93;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;1;1;647500.0;29121286
+"AL";"ALB";8;"AL";"Albania";"Albania";"Tirana";"Europe";"ALL";"Lek";355;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;28748.0;2986952
+"AQ";"ATA";10;"AY";"Antarctica";"Antarctica";"";"Antarctica";"";"";0;0;"";0;"";0;"";"International";"";0;0;0;14000000.0;0
+"DZ";"DZA";12;"AG";"Algeria";"Algeria";"Algiers";"Africa";"DZD";"Dinar";213;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;0;2381740.0;34586184
+"AS";"ASM";16;"AQ";"American Samoa";"American Samoa";"Pago Pago";"Oceania";"USD";"Dollar";-683;9;"Oceania";61;"Polynesia";0;"";"Territory of US";"Developing";1;0;0;199.0;57881
+"AD";"AND";20;"AN";"Andorra";"Andorra";"Andorra la Vella";"Europe";"EUR";"Euro";376;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;468.0;84000
+"AO";"AGO";24;"AO";"Angola";"Angola";"Luanda";"Africa";"AOA";"Kwanza";244;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;1;1246700.0;13068161
+"AG";"ATG";28;"AC";"Antigua and Barbuda";"Antigua and Barbuda";"St. John's";"North America";"XCD";"Dollar";-267;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;443.0;86754
+"AZ";"AZE";31;"AJ";"Azerbaijan";"Azerbaijan";"Baku";"Asia";"AZN";"Manat";994;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;1;0;86600.0;8303512
+"AR";"ARG";32;"AR";"Argentina";"Argentina";"Buenos Aires";"South America";"ARS";"Peso";54;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;2766890.0;41343201
+"AU";"AUS";36;"AS";"Australia";"Australia";"Canberra";"Oceania";"AUD";"Dollar";61;9;"Oceania";53;"Australia and New Zealand";0;"";"Independent";"Developed";0;0;0;7686850.0;21515754
+"AT";"AUT";40;"AU";"Austria";"Austria";"Vienna";"Europe";"EUR";"Euro";43;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;83858.0;8205000
+"BS";"BHS";44;"BF";"Bahamas";"Bahamas";"Nassau";"North America";"BSD";"Dollar";-241;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;13940.0;301790
+"BH";"BHR";48;"BA";"Bahrain";"Bahrain";"Manama";"Asia";"BHD";"Dinar";973;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;665.0;738004
+"BD";"BGD";50;"BG";"Bangladesh";"Bangladesh";"Dhaka";"Asia";"BDT";"Taka";880;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;0;1;144000.0;156118464
+"AM";"ARM";51;"AM";"Armenia";"Armenia";"Yerevan";"Asia";"AMD";"Dram";374;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;1;0;29800.0;2968000
+"BB";"BRB";52;"BB";"Barbados";"Barbados";"Bridgetown";"North America";"BBD";"Dollar";-245;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;431.0;285653
+"BE";"BEL";56;"BE";"Belgium";"Belgium";"Brussels";"Europe";"EUR";"Euro";32;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;30510.0;10403000
+"BM";"BMU";60;"BD";"Bermuda";"Bermuda";"Hamilton";"North America";"BMD";"Dollar";-440;19;"Americas";21;"Northern America";0;"";"Territory of GB";"Developed";0;0;0;53.0;65365
+"BT";"BTN";64;"BT";"Bhutan";"Bhutan";"Thimphu";"Asia";"BTN";"Ngultrum";975;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;1;1;47000.0;699847
+"BO";"BOL";68;"BL";"Bolivia";"Bolivia (Plurinational State of)";"Sucre";"South America";"BOB";"Boliviano";591;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;1;0;1098580.0;9947418
+"BA";"BIH";70;"BK";"Bosnia and Herzegovina";"Bosnia and Herzegovina";"Sarajevo";"Europe";"BAM";"Marka";387;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;51129.0;4590000
+"BW";"BWA";72;"BC";"Botswana";"Botswana";"Gaborone";"Africa";"BWP";"Pula";267;2;"Africa";202;"Sub-Saharan Africa";18;"Southern Africa";"Independent";"Developing";0;1;0;600370.0;2029307
+"BV";"BVT";74;"BV";"Bouvet Island";"Bouvet Island";"";"Antarctica";"NOK";"Krone";0;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Territory of NO";"Developing";0;0;0;49.0;0
+"BR";"BRA";76;"BR";"Brazil";"Brazil";"Brasilia";"South America";"BRL";"Real";55;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;8511960.0;201103330
+"BZ";"BLZ";84;"BH";"Belize";"Belize";"Belmopan";"North America";"BZD";"Dollar";501;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";1;0;0;22966.0;314522
+"IO";"IOT";86;"IO";"British Indian Ocean Territory";"British Indian Ocean Territory";"Diego Garcia";"Asia";"USD";"Dollar";246;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Territory of GB";"Developing";0;0;0;60.0;4000
+"SB";"SLB";90;"BP";"Solomon Islands";"Solomon Islands";"Honiara";"Oceania";"SBD";"Dollar";677;9;"Oceania";54;"Melanesia";0;"";"Independent";"Developing";1;0;1;28450.0;559198
+"VG";"VGB";92;"VI";"British Virgin Islands";"British Virgin Islands";"Road Town";"North America";"USD";"Dollar";-283;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of GB";"Developing";1;0;0;153.0;21730
+"BN";"BRN";96;"BX";"Brunei";"Brunei Darussalam";"Bandar Seri Begawan";"Asia";"BND";"Dollar";673;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;5770.0;395027
+"BG";"BGR";100;"BU";"Bulgaria";"Bulgaria";"Sofia";"Europe";"BGN";"Lev";359;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;110910.0;7148785
+"MM";"MMR";104;"BM";"Myanmar";"Myanmar";"Nay Pyi Taw";"Asia";"MMK";"Kyat";95;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;1;678500.0;53414374
+"BI";"BDI";108;"BY";"Burundi";"Burundi";"Bujumbura";"Africa";"BIF";"Franc";257;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;27830.0;9863117
+"BY";"BLR";112;"BO";"Belarus";"Belarus";"Minsk";"Europe";"BYN";"Belarusian ruble";375;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;207600.0;9685000
+"KH";"KHM";116;"CB";"Cambodia";"Cambodia";"Phnom Penh";"Asia";"KHR";"Riels";855;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;1;181040.0;14453680
+"CM";"CMR";120;"CM";"Cameroon";"Cameroon";"Yaounde";"Africa";"XAF";"Franc";237;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;0;475440.0;19294149
+"CA";"CAN";124;"CA";"Canada";"Canada";"Ottawa";"North America";"CAD";"Dollar";1;19;"Americas";21;"Northern America";0;"";"Independent";"Developed";0;0;0;9984670.0;33679000
+"CV";"CPV";132;"CV";"Cape Verde";"Cabo Verde";"Praia";"Africa";"CVE";"Escudo";238;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";1;0;0;4033.0;508659
+"KY";"CYM";136;"CJ";"Cayman Islands";"Cayman Islands";"George Town";"North America";"KYD";"Dollar";-344;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of GB";"Developing";0;0;0;262.0;44270
+"CF";"CAF";140;"CT";"Central African Republic";"Central African Republic";"Bangui";"Africa";"XAF";"Franc";236;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;1;1;622984.0;4844927
+"LK";"LKA";144;"CE";"Sri Lanka";"Sri Lanka";"Colombo";"Asia";"LKR";"Rupee";94;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;0;0;65610.0;21513990
+"TD";"TCD";148;"CD";"Chad";"Chad";"N'Djamena";"Africa";"XAF";"Franc";235;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;1;1;1284000.0;10543464
+"CL";"CHL";152;"CI";"Chile";"Chile";"Santiago";"South America";"CLP";"Peso";56;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;756950.0;16746491
+"CN";"CHN";156;"CH";"China";"China";"Beijing";"Asia";"CNY";"Yuan Renminbi";86;142;"Asia";30;"Eastern Asia";0;"";"Independent";"Developing";0;0;0;9596960.0;1330044000
+"TW";"TWN";158;"TW";"Taiwan";"Republic of China";"Taipei";"Asia";"TWD";"Dollar";886;142;"Asia";30;"Eastern Asia";0;"";"Independent";"";0;0;0;35980.0;22894384
+"CX";"CXR";162;"KT";"Christmas Island";"Christmas Island";"Flying Fish Cove";"Oceania";"AUD";"Dollar";61;9;"Oceania";53;"Australia and New Zealand";0;"";"Territory of AU";"Developed";0;0;0;135.0;1500
+"CC";"CCK";166;"CK";"Cocos Islands";"Cocos (Keeling) Islands";"West Island";"Asia";"AUD";"Dollar";61;9;"Oceania";53;"Australia and New Zealand";0;"";"Territory of AU";"Developed";0;0;0;14.0;628
+"CO";"COL";170;"CO";"Colombia";"Colombia";"Bogota";"South America";"COP";"Peso";57;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;1138910.0;47790000
+"KM";"COM";174;"CN";"Comoros";"Comoros";"Moroni";"Africa";"KMF";"Franc";269;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";1;0;1;2170.0;773407
+"YT";"MYT";175;"MF";"Mayotte";"Mayotte";"Mamoudzou";"Africa";"EUR";"Euro";262;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Part of FR";"Developing";0;0;0;374.0;159042
+"CG";"COG";178;"CF";"Republic of the Congo";"Congo";"Brazzaville";"Africa";"XAF";"Franc";242;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;0;342000.0;3039126
+"CD";"COD";180;"CG";"Democratic Republic of the Congo";"Democratic Republic of the Congo";"Kinshasa";"Africa";"CDF";"Franc";243;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;1;2345410.0;70916439
+"CK";"COK";184;"CW";"Cook Islands";"Cook Islands";"Avarua";"Oceania";"NZD";"Dollar";682;9;"Oceania";61;"Polynesia";0;"";"Associated with NZ";"Developing";1;0;0;240.0;21388
+"CR";"CRI";188;"CS";"Costa Rica";"Costa Rica";"San Jose";"North America";"CRC";"Colon";506;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;51100.0;4516220
+"HR";"HRV";191;"HR";"Croatia";"Croatia";"Zagreb";"Europe";"HRK";"Kuna";385;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;56542.0;4284889
+"CU";"CUB";192;"CU";"Cuba";"Cuba";"Havana";"North America";"CUP";"Peso";53;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;110860.0;11423000
+"CY";"CYP";196;"CY";"Cyprus";"Cyprus";"Nicosia";"Europe";"EUR";"Euro";357;142;"Asia";145;"Western Asia";0;"";"Independent";"Developed";0;0;0;9250.0;1102677
+"CZ";"CZE";203;"EZ";"Czechia";"Czechia";"Prague";"Europe";"CZK";"Koruna";420;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;78866.0;10476000
+"BJ";"BEN";204;"BN";"Benin";"Benin";"Porto-Novo";"Africa";"XOF";"Franc";229;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;112620.0;9056010
+"DK";"DNK";208;"DA";"Denmark";"Denmark";"Copenhagen";"Europe";"DKK";"Krone";45;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;43094.0;5484000
+"DM";"DMA";212;"DO";"Dominica";"Dominica";"Roseau";"North America";"XCD";"Dollar";-766;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;754.0;72813
+"DO";"DOM";214;"DR";"Dominican Republic";"Dominican Republic";"Santo Domingo";"North America";"DOP";"Peso";0;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;48730.0;9823821
+"EC";"ECU";218;"EC";"Ecuador";"Ecuador";"Quito";"South America";"USD";"Dollar";593;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;283560.0;14790608
+"SV";"SLV";222;"ES";"El Salvador";"El Salvador";"San Salvador";"North America";"USD";"Dollar";503;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;21040.0;6052064
+"GQ";"GNQ";226;"EK";"Equatorial Guinea";"Equatorial Guinea";"Malabo";"Africa";"XAF";"Franc";240;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;0;28051.0;1014999
+"ET";"ETH";231;"ET";"Ethiopia";"Ethiopia";"Addis Ababa";"Africa";"ETB";"Birr";251;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;1127130.0;88013491
+"ER";"ERI";232;"ER";"Eritrea";"Eritrea";"Asmara";"Africa";"ERN";"Nakfa";291;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;121320.0;5792984
+"EE";"EST";233;"EN";"Estonia";"Estonia";"Tallinn";"Europe";"EUR";"Euro";372;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;45226.0;1291170
+"FO";"FRO";234;"FO";"Faroe Islands";"Faroe Islands";"Torshavn";"Europe";"DKK";"Krone";298;150;"Europe";154;"Northern Europe";0;"";"Part of DK";"Developed";0;0;0;1399.0;48228
+"FK";"FLK";238;"FK";"Falkland Islands";"Falkland Islands (Malvinas)";"Stanley";"South America";"FKP";"Pound";500;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Territory of GB";"Developing";0;0;0;12173.0;2638
+"GS";"SGS";239;"SX";"South Georgia and the South Sandwich Islands";"South Georgia and the South Sandwich Islands";"Grytviken";"Antarctica";"GBP";"Pound";0;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Territory of GB";"Developing";0;0;0;3903.0;30
+"FJ";"FJI";242;"FJ";"Fiji";"Fiji";"Suva";"Oceania";"FJD";"Dollar";679;9;"Oceania";54;"Melanesia";0;"";"Independent";"Developing";1;0;0;18270.0;875983
+"FI";"FIN";246;"FI";"Finland";"Finland";"Helsinki";"Europe";"EUR";"Euro";358;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;337030.0;5244000
+"AX";"ALA";248;"";"Aland Islands";"Åland Islands";"Mariehamn";"Europe";"EUR";"Euro";340;150;"Europe";154;"Northern Europe";0;"";"Part of FI";"Developed";0;0;0;1580.0;26711
+"FR";"FRA";250;"FR";"France";"France";"Paris";"Europe";"EUR";"Euro";33;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;547030.0;64768389
+"GF";"GUF";254;"FG";"French Guiana";"French Guiana";"Cayenne";"South America";"EUR";"Euro";594;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Part of FR";"Developing";0;0;0;91000.0;195506
+"PF";"PYF";258;"FP";"French Polynesia";"French Polynesia";"Papeete";"Oceania";"XPF";"Franc";689;9;"Oceania";61;"Polynesia";0;"";"Territory of FR";"Developing";1;0;0;4167.0;270485
+"TF";"ATF";260;"FS";"French Southern Territories";"French Southern Territories";"Port-aux-Francais";"Antarctica";"EUR";"Euro  ";0;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Territory of FR";"Developing";0;0;0;7829.0;140
+"DJ";"DJI";262;"DJ";"Djibouti";"Djibouti";"Djibouti";"Africa";"DJF";"Franc";253;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;23000.0;740528
+"GA";"GAB";266;"GB";"Gabon";"Gabon";"Libreville";"Africa";"XAF";"Franc";241;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";0;0;0;267667.0;1545255
+"GE";"GEO";268;"GG";"Georgia";"Georgia";"Tbilisi";"Asia";"GEL";"Lari";995;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;69700.0;4630000
+"GM";"GMB";270;"GA";"Gambia";"Gambia";"Banjul";"Africa";"GMD";"Dalasi";220;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;11300.0;1593256
+"PS";"PSE";275;"WE";"Palestinian Territory";"State of Palestine";"East Jerusalem";"Asia";"ILS";"Shekel";970;142;"Asia";145;"Western Asia";0;"";"In contention";"Developing";0;0;0;5970.0;3800000
+"DE";"DEU";276;"GM";"Germany";"Germany";"Berlin";"Europe";"EUR";"Euro";49;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;357021.0;81802257
+"GH";"GHA";288;"GH";"Ghana";"Ghana";"Accra";"Africa";"GHS";"Cedi";233;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;0;239460.0;24339838
+"GI";"GIB";292;"GI";"Gibraltar";"Gibraltar";"Gibraltar";"Europe";"GIP";"Pound";350;150;"Europe";39;"Southern Europe";0;"";"Territory of GB";"Developed";0;0;0;6.5;27884
+"KI";"KIR";296;"KR";"Kiribati";"Kiribati";"Tarawa";"Oceania";"AUD";"Dollar";686;9;"Oceania";57;"Micronesia";0;"";"Independent";"Developing";1;0;1;811.0;92533
+"GR";"GRC";300;"GR";"Greece";"Greece";"Athens";"Europe";"EUR";"Euro";30;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;131940.0;11000000
+"GL";"GRL";304;"GL";"Greenland";"Greenland";"Nuuk";"North America";"DKK";"Krone";299;19;"Americas";21;"Northern America";0;"";"Part of DK";"Developed";0;0;0;2166090.0;56375
+"GD";"GRD";308;"GJ";"Grenada";"Grenada";"St. George's";"North America";"XCD";"Dollar";-472;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;344.0;107818
+"GP";"GLP";312;"GP";"Guadeloupe";"Guadeloupe";"Basse-Terre";"North America";"EUR";"Euro";590;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of FR";"Developing";0;0;0;1780.0;443000
+"GU";"GUM";316;"GQ";"Guam";"Guam";"Hagatna";"Oceania";"USD";"Dollar";-670;9;"Oceania";57;"Micronesia";0;"";"Territory of US";"Developing";1;0;0;549.0;159358
+"GT";"GTM";320;"GT";"Guatemala";"Guatemala";"Guatemala City";"North America";"GTQ";"Quetzal";502;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;108890.0;13550440
+"GN";"GIN";324;"GV";"Guinea";"Guinea";"Conakry";"Africa";"GNF";"Franc";224;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;245857.0;10324025
+"GY";"GUY";328;"GY";"Guyana";"Guyana";"Georgetown";"South America";"GYD";"Dollar";592;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";1;0;0;214970.0;748486
+"HT";"HTI";332;"HA";"Haiti";"Haiti";"Port-au-Prince";"North America";"HTG";"Gourde";509;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;1;27750.0;9648924
+"HM";"HMD";334;"HM";"Heard Island and McDonald Islands";"Heard Island and McDonald Islands";"";"Antarctica";"AUD";"Dollar";0;9;"Oceania";53;"Australia and New Zealand";0;"";"Territory of AU";"Developed";0;0;0;412.0;0
+"VA";"VAT";336;"VT";"Vatican";"Holy See";"Vatican City";"Europe";"EUR";"Euro";379;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;0.44;921
+"HN";"HND";340;"HO";"Honduras";"Honduras";"Tegucigalpa";"North America";"HNL";"Lempira";504;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;112090.0;7989415
+"HK";"HKG";344;"HK";"Hong Kong";"China Hong Kong Special Administrative Region";"Hong Kong";"Asia";"HKD";"Dollar";852;142;"Asia";30;"Eastern Asia";0;"";"Part of CN";"Developing";0;0;0;1092.0;0
+"HU";"HUN";348;"HU";"Hungary";"Hungary";"Budapest";"Europe";"HUF";"Forint";36;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;93030.0;9982000
+"IS";"ISL";352;"IC";"Iceland";"Iceland";"Reykjavik";"Europe";"ISK";"Krona";354;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;103000.0;308910
+"IN";"IND";356;"IN";"India";"India";"New Delhi";"Asia";"INR";"Rupee";91;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;0;0;3287590.0;1173108018
+"ID";"IDN";360;"ID";"Indonesia";"Indonesia";"Jakarta";"Asia";"IDR";"Rupiah";62;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;1919440.0;242968342
+"IR";"IRN";364;"IR";"Iran";"Iran (Islamic Republic of)";"Tehran";"Asia";"IRR";"Rial";98;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;0;0;1648000.0;76923300
+"IQ";"IRQ";368;"IZ";"Iraq";"Iraq";"Baghdad";"Asia";"IQD";"Dinar";964;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;437072.0;29671605
+"IE";"IRL";372;"EI";"Ireland";"Ireland";"Dublin";"Europe";"EUR";"Euro";353;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;70280.0;4622917
+"IL";"ISR";376;"IS";"Israel";"Israel";"Jerusalem";"Asia";"ILS";"Shekel";972;142;"Asia";145;"Western Asia";0;"";"Independent";"Developed";0;0;0;20770.0;7353985
+"IT";"ITA";380;"IT";"Italy";"Italy";"Rome";"Europe";"EUR";"Euro";39;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;301230.0;60340328
+"CI";"CIV";384;"IV";"Ivory Coast";"Côte d'Ivoire";"Yamoussoukro";"Africa";"XOF";"Franc";225;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;0;322460.0;21058798
+"JM";"JAM";388;"JM";"Jamaica";"Jamaica";"Kingston";"North America";"JMD";"Dollar";-875;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;10991.0;2847232
+"JP";"JPN";392;"JA";"Japan";"Japan";"Tokyo";"Asia";"JPY";"Yen";81;142;"Asia";30;"Eastern Asia";0;"";"Independent";"Developed";0;0;0;377835.0;127288000
+"KZ";"KAZ";398;"KZ";"Kazakhstan";"Kazakhstan";"Astana";"Asia";"KZT";"Tenge";7;142;"Asia";143;"Central Asia";0;"";"Independent";"Developing";0;1;0;2717300.0;15340000
+"JO";"JOR";400;"JO";"Jordan";"Jordan";"Amman";"Asia";"JOD";"Dinar";962;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;92300.0;6407085
+"KE";"KEN";404;"KE";"Kenya";"Kenya";"Nairobi";"Africa";"KES";"Shilling";254;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;0;582650.0;40046566
+"KP";"PRK";408;"KN";"North Korea";"Democratic People's Republic of Korea";"Pyongyang";"Asia";"KPW";"Won";850;142;"Asia";30;"Eastern Asia";0;"";"Independent";"Developing";0;0;0;120540.0;22912177
+"KR";"KOR";410;"KS";"South Korea";"Republic of Korea";"Seoul";"Asia";"KRW";"Won";82;142;"Asia";30;"Eastern Asia";0;"";"Independent";"Developing";0;0;0;98480.0;48422644
+"KW";"KWT";414;"KU";"Kuwait";"Kuwait";"Kuwait City";"Asia";"KWD";"Dinar";965;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;17820.0;2789132
+"KG";"KGZ";417;"KG";"Kyrgyzstan";"Kyrgyzstan";"Bishkek";"Asia";"KGS";"Som";996;142;"Asia";143;"Central Asia";0;"";"Independent";"Developing";0;1;0;198500.0;5776500
+"LA";"LAO";418;"LA";"Laos";"Lao People's Democratic Republic";"Vientiane";"Asia";"LAK";"Kip";856;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;1;1;236800.0;6368162
+"LB";"LBN";422;"LE";"Lebanon";"Lebanon";"Beirut";"Asia";"LBP";"Pound";961;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;10400.0;4125247
+"LS";"LSO";426;"LT";"Lesotho";"Lesotho";"Maseru";"Africa";"LSL";"Loti";266;2;"Africa";202;"Sub-Saharan Africa";18;"Southern Africa";"Independent";"Developing";0;1;1;30355.0;1919552
+"LV";"LVA";428;"LG";"Latvia";"Latvia";"Riga";"Europe";"EUR";"Euro";371;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;64589.0;2217969
+"LR";"LBR";430;"LI";"Liberia";"Liberia";"Monrovia";"Africa";"LRD";"Dollar";231;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;111370.0;3685076
+"LY";"LBY";434;"LY";"Libya";"Libya";"Tripoli";"Africa";"LYD";"Dinar";218;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;0;1759540.0;6461454
+"LI";"LIE";438;"LS";"Liechtenstein";"Liechtenstein";"Vaduz";"Europe";"CHF";"Franc";423;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;160.0;35000
+"LT";"LTU";440;"LH";"Lithuania";"Lithuania";"Vilnius";"Europe";"EUR";"Euro";370;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;65200.0;2944459
+"LU";"LUX";442;"LU";"Luxembourg";"Luxembourg";"Luxembourg";"Europe";"EUR";"Euro";352;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;2586.0;497538
+"MO";"MAC";446;"MC";"Macao";"China Macao Special Administrative Region";"Macao";"Asia";"MOP";"Pataca";853;142;"Asia";30;"Eastern Asia";0;"";"Part of CN";"Developing";0;0;0;254.0;0
+"MG";"MDG";450;"MA";"Madagascar";"Madagascar";"Antananarivo";"Africa";"MGA";"Ariary";261;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;587040.0;21281844
+"MW";"MWI";454;"MI";"Malawi";"Malawi";"Lilongwe";"Africa";"MWK";"Kwacha";265;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;118480.0;15447500
+"MY";"MYS";458;"MY";"Malaysia";"Malaysia";"Kuala Lumpur";"Asia";"MYR";"Ringgit";60;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;329750.0;28274729
+"MV";"MDV";462;"MV";"Maldives";"Maldives";"Male";"Asia";"MVR";"Rufiyaa";960;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";1;0;0;300.0;395650
+"ML";"MLI";466;"ML";"Mali";"Mali";"Bamako";"Africa";"XOF";"Franc";223;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;1;1;1240000.0;13796354
+"MT";"MLT";470;"MT";"Malta";"Malta";"Valletta";"Europe";"EUR";"Euro";356;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;316.0;403000
+"MQ";"MTQ";474;"MB";"Martinique";"Martinique";"Fort-de-France";"North America";"EUR";"Euro";596;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of FR";"Developing";0;0;0;1100.0;432900
+"MR";"MRT";478;"MR";"Mauritania";"Mauritania";"Nouakchott";"Africa";"MRO";"Ouguiya";222;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;1030700.0;3205060
+"MU";"MUS";480;"MP";"Mauritius";"Mauritius";"Port Louis";"Africa";"MUR";"Rupee";230;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";1;0;0;2040.0;1294104
+"MX";"MEX";484;"MX";"Mexico";"Mexico";"Mexico City";"North America";"MXN";"Peso";52;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;1972550.0;112468855
+"MC";"MCO";492;"MN";"Monaco";"Monaco";"Monaco";"Europe";"EUR";"Euro";377;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;1.95;32965
+"MN";"MNG";496;"MG";"Mongolia";"Mongolia";"Ulan Bator";"Asia";"MNT";"Tugrik";976;142;"Asia";30;"Eastern Asia";0;"";"Independent";"Developing";0;1;0;1565000.0;3086918
+"MD";"MDA";498;"MD";"Moldova";"Republic of Moldova";"Chisinau";"Europe";"MDL";"Leu";373;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;1;0;33843.0;4324000
+"ME";"MNE";499;"MJ";"Montenegro";"Montenegro";"Podgorica";"Europe";"EUR";"Euro";382;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;14026.0;666730
+"MS";"MSR";500;"MH";"Montserrat";"Montserrat";"Plymouth";"North America";"XCD";"Dollar";-663;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of GB";"Developing";1;0;0;102.0;9341
+"MA";"MAR";504;"MO";"Morocco";"Morocco";"Rabat";"Africa";"MAD";"Dirham";212;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;0;446550.0;33848242
+"MZ";"MOZ";508;"MZ";"Mozambique";"Mozambique";"Maputo";"Africa";"MZN";"Metical";258;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;801590.0;22061451
+"OM";"OMN";512;"MU";"Oman";"Oman";"Muscat";"Asia";"OMR";"Rial";968;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;212460.0;2967717
+"NA";"NAM";516;"WA";"Namibia";"Namibia";"Windhoek";"Africa";"NAD";"Dollar";264;2;"Africa";202;"Sub-Saharan Africa";18;"Southern Africa";"Independent";"Developing";0;0;0;825418.0;2128471
+"NR";"NRU";520;"NR";"Nauru";"Nauru";"Yaren";"Oceania";"AUD";"Dollar";674;9;"Oceania";57;"Micronesia";0;"";"Independent";"Developing";1;0;0;21.0;10065
+"NP";"NPL";524;"NP";"Nepal";"Nepal";"Kathmandu";"Asia";"NPR";"Rupee";977;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;1;1;140800.0;28951852
+"NL";"NLD";528;"NL";"Netherlands";"Netherlands";"Amsterdam";"Europe";"EUR";"Euro";31;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;41526.0;16645000
+"AN";"ANT";530;"NT";"Netherlands Antilles";"";"Willemstad";"North America";"ANG";"Guilder";599;0;"";0;"";0;"";"";"";0;0;0;960.0;300000
+"CW";"CUW";531;"UC";"Curacao";"Curaçao";" Willemstad";"North America";"ANG";"Guilder";599;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of NL";"Developing";1;0;0;444.0;141766
+"AW";"ABW";533;"AA";"Aruba";"Aruba";"Oranjestad";"North America";"AWG";"Guilder";297;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of NL";"Developing";1;0;0;193.0;71566
+"SX";"SXM";534;"NN";"Sint Maarten";"Sint Maarten (Dutch part)";"Philipsburg";"North America";"ANG";"Guilder";599;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of NL";"Developing";1;0;0;21.0;37429
+"BQ";"BES";535;"";"Bonaire Saint Eustatius and Saba ";"Bonaire Sint Eustatius and Saba";"";"North America";"USD";"Dollar";599;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of NL";"Developing";1;0;0;328.0;0
+"NC";"NCL";540;"NC";"New Caledonia";"New Caledonia";"Noumea";"Oceania";"XPF";"Franc";687;9;"Oceania";54;"Melanesia";0;"";"Territory of FR";"Developing";1;0;0;19060.0;216494
+"VU";"VUT";548;"NH";"Vanuatu";"Vanuatu";"Port Vila";"Oceania";"VUV";"Vatu";678;9;"Oceania";54;"Melanesia";0;"";"Independent";"Developing";1;0;1;12200.0;221552
+"NZ";"NZL";554;"NZ";"New Zealand";"New Zealand";"Wellington";"Oceania";"NZD";"Dollar";64;9;"Oceania";53;"Australia and New Zealand";0;"";"Independent";"Developed";0;0;0;268680.0;4252277
+"NI";"NIC";558;"NU";"Nicaragua";"Nicaragua";"Managua";"North America";"NIO";"Cordoba";505;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;129494.0;5995928
+"NE";"NER";562;"NG";"Niger";"Niger";"Niamey";"Africa";"XOF";"Franc";227;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;1;1;1267000.0;15878271
+"NG";"NGA";566;"NI";"Nigeria";"Nigeria";"Abuja";"Africa";"NGN";"Naira";234;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;0;923768.0;154000000
+"NU";"NIU";570;"NE";"Niue";"Niue";"Alofi";"Oceania";"NZD";"Dollar";683;9;"Oceania";61;"Polynesia";0;"";"Associated with NZ";"Developing";1;0;0;260.0;2166
+"NF";"NFK";574;"NF";"Norfolk Island";"Norfolk Island";"Kingston";"Oceania";"AUD";"Dollar";672;9;"Oceania";53;"Australia and New Zealand";0;"";"Territory of AU";"Developed";0;0;0;34.6;1828
+"NO";"NOR";578;"NO";"Norway";"Norway";"Oslo";"Europe";"NOK";"Krone";47;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;324220.0;5009150
+"MP";"MNP";580;"CQ";"Northern Mariana Islands";"Northern Mariana Islands";"Saipan";"Oceania";"USD";"Dollar";-669;9;"Oceania";57;"Micronesia";0;"";"Commonwealth of US";"Developing";1;0;0;477.0;53883
+"UM";"UMI";581;"";"United States Minor Outlying Islands";"United States Minor Outlying Islands";"";"Oceania";"USD";"Dollar ";1;9;"Oceania";57;"Micronesia";0;"";"Territories of US";"Developing";0;0;0;0.0;0
+"FM";"FSM";583;"FM";"Micronesia";"Micronesia (Federated States of)";"Palikir";"Oceania";"USD";"Dollar";691;9;"Oceania";57;"Micronesia";0;"";"Independent";"Developing";1;0;0;702.0;107708
+"MH";"MHL";584;"RM";"Marshall Islands";"Marshall Islands";"Majuro";"Oceania";"USD";"Dollar";692;9;"Oceania";57;"Micronesia";0;"";"Independent";"Developing";1;0;0;181.3;65859
+"PW";"PLW";585;"PS";"Palau";"Palau";"Melekeok";"Oceania";"USD";"Dollar";680;9;"Oceania";57;"Micronesia";0;"";"Independent";"Developing";1;0;0;458.0;19907
+"PK";"PAK";586;"PK";"Pakistan";"Pakistan";"Islamabad";"Asia";"PKR";"Rupee";92;142;"Asia";34;"Southern Asia";0;"";"Independent";"Developing";0;0;0;803940.0;184404791
+"PA";"PAN";591;"PM";"Panama";"Panama";"Panama City";"North America";"PAB";"Balboa";507;19;"Americas";419;"Latin America and the Caribbean";13;"Central America";"Independent";"Developing";0;0;0;78200.0;3410676
+"PG";"PNG";598;"PP";"Papua New Guinea";"Papua New Guinea";"Port Moresby";"Oceania";"PGK";"Kina";675;9;"Oceania";54;"Melanesia";0;"";"Independent";"Developing";1;0;0;462840.0;6064515
+"PY";"PRY";600;"PA";"Paraguay";"Paraguay";"Asuncion";"South America";"PYG";"Guarani";595;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;1;0;406750.0;6375830
+"PE";"PER";604;"PE";"Peru";"Peru";"Lima";"South America";"PEN";"Sol";51;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;1285220.0;29907003
+"PH";"PHL";608;"RP";"Philippines";"Philippines";"Manila";"Asia";"PHP";"Peso";63;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;300000.0;99900177
+"PN";"PCN";612;"PC";"Pitcairn";"Pitcairn";"Adamstown";"Oceania";"NZD";"Dollar";870;9;"Oceania";61;"Polynesia";0;"";"Territory of GB";"Developing";0;0;0;47.0;46
+"PL";"POL";616;"PL";"Poland";"Poland";"Warsaw";"Europe";"PLN";"Zloty";48;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;312685.0;38500000
+"PT";"PRT";620;"PO";"Portugal";"Portugal";"Lisbon";"Europe";"EUR";"Euro";351;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;92391.0;10676000
+"GW";"GNB";624;"PU";"Guinea-Bissau";"Guinea-Bissau";"Bissau";"Africa";"XOF";"Franc";245;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";1;0;1;36120.0;1565126
+"TL";"TLS";626;"TT";"Timor Leste";"Timor-Leste";"Dili";"Oceania";"USD";"Dollar";670;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";1;0;1;15007.0;1154625
+"PR";"PRI";630;"RQ";"Puerto Rico";"Puerto Rico";"San Juan";"North America";"USD";"Dollar";0;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Commonwealth of US";"Developing";1;0;0;9104.0;3916632
+"QA";"QAT";634;"QA";"Qatar";"Qatar";"Doha";"Asia";"QAR";"Rial";974;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;11437.0;840926
+"RE";"REU";638;"RE";"Reunion";"Réunion";"Saint-Denis";"Africa";"EUR";"Euro";262;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Part of FR";"Developing";0;0;0;2517.0;776948
+"RO";"ROU";642;"RO";"Romania";"Romania";"Bucharest";"Europe";"RON";"Leu";40;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;237500.0;21959278
+"RU";"RUS";643;"RS";"Russia";"Russian Federation";"Moscow";"Europe";"RUB";"Ruble";7;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;17100000.0;140702000
+"RW";"RWA";646;"RW";"Rwanda";"Rwanda";"Kigali";"Africa";"RWF";"Franc";250;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;26338.0;11055976
+"BL";"BLM";652;"TB";"Saint Barthelemy";"Saint Barthélemy";"Gustavia";"North America";"EUR";"Euro";590;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of FR";"Developing";0;0;0;21.0;8450
+"SH";"SHN";654;"SH";"Saint Helena";"Saint Helena";"Jamestown";"Africa";"SHP";"Pound";290;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Territory of GB";"Developing";0;0;0;410.0;7460
+"KN";"KNA";659;"SC";"Saint Kitts and Nevis";"Saint Kitts and Nevis";"Basseterre";"North America";"XCD";"Dollar";-868;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;261.0;51134
+"AI";"AIA";660;"AV";"Anguilla";"Anguilla";"The Valley";"North America";"XCD";"Dollar";-263;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of GB";"Developing";1;0;0;102.0;13254
+"LC";"LCA";662;"ST";"Saint Lucia";"Saint Lucia";"Castries";"North America";"XCD";"Dollar";-757;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;616.0;160922
+"MF";"MAF";663;"RN";"Saint Martin";"Saint Martin (French Part)";"Marigot";"North America";"EUR";"Euro";590;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Part of FR";"Developing";0;0;0;53.0;35925
+"PM";"SPM";666;"SB";"Saint Pierre and Miquelon";"Saint Pierre and Miquelon";"Saint-Pierre";"North America";"EUR";"Euro";508;19;"Americas";21;"Northern America";0;"";"Part of FR";"Developed";0;0;0;242.0;7012
+"VC";"VCT";670;"VC";"Saint Vincent and the Grenadines";"Saint Vincent and the Grenadines";"Kingstown";"North America";"XCD";"Dollar";-783;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;389.0;104217
+"SM";"SMR";674;"SM";"San Marino";"San Marino";"San Marino";"Europe";"EUR";"Euro";378;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;61.2;31477
+"ST";"STP";678;"TP";"Sao Tome and Principe";"Sao Tome and Principe";"Sao Tome";"Africa";"STD";"Dobra";239;2;"Africa";202;"Sub-Saharan Africa";17;"Middle Africa";"Independent";"Developing";1;0;1;1001.0;175808
+"SA";"SAU";682;"SA";"Saudi Arabia";"Saudi Arabia";"Riyadh";"Asia";"SAR";"Rial";966;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;1960580.0;25731776
+"SN";"SEN";686;"SG";"Senegal";"Senegal";"Dakar";"Africa";"XOF";"Franc";221;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;196190.0;12323252
+"RS";"SRB";688;"RI";"Serbia";"Serbia";"Belgrade";"Europe";"RSD";"Dinar";381;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;88361.0;7344847
+"SC";"SYC";690;"SE";"Seychelles";"Seychelles";"Victoria";"Africa";"SCR";"Rupee";248;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";1;0;0;455.0;88340
+"SL";"SLE";694;"SL";"Sierra Leone";"Sierra Leone";"Freetown";"Africa";"SLL";"Leone";232;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;71740.0;5245695
+"SG";"SGP";702;"SN";"Singapore";"Singapore";"Singapore";"Asia";"SGD";"Dollar";65;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";1;0;0;692.7;4701069
+"SK";"SVK";703;"LO";"Slovakia";"Slovakia";"Bratislava";"Europe";"EUR";"Euro";421;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;48845.0;5455000
+"VN";"VNM";704;"VM";"Vietnam";"Viet Nam";"Hanoi";"Asia";"VND";"Dong";84;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;329560.0;89571130
+"SI";"SVN";705;"SI";"Slovenia";"Slovenia";"Ljubljana";"Europe";"EUR";"Euro";386;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;20273.0;2007000
+"SO";"SOM";706;"SO";"Somalia";"Somalia";"Mogadishu";"Africa";"SOS";"Shilling";252;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;637657.0;10112453
+"ZA";"ZAF";710;"SF";"South Africa";"South Africa";"Pretoria";"Africa";"ZAR";"Rand";27;2;"Africa";202;"Sub-Saharan Africa";18;"Southern Africa";"Independent";"Developing";0;0;0;1219910.0;49000000
+"ZW";"ZWE";716;"ZI";"Zimbabwe";"Zimbabwe";"Harare";"Africa";"ZWL";"Dollar";263;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;0;390580.0;13061000
+"ES";"ESP";724;"SP";"Spain";"Spain";"Madrid";"Europe";"EUR";"Euro";34;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;0;0;504782.0;46505963
+"SS";"SSD";728;"OD";"South Sudan";"South Sudan";"Juba";"Africa";"SSP";"Pound";211;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;644329.0;8260490
+"SD";"SDN";729;"SU";"Sudan";"Sudan";"Khartoum";"Africa";"SDG";"Pound";249;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;1;1861480.0;35000000
+"EH";"ESH";732;"WI";"Western Sahara";"Western Sahara";"El-Aaiun";"Africa";"MAD";"Dirham";212;2;"Africa";15;"Northern Africa";0;"";"In contention";"Developing";0;0;0;266000.0;273008
+"SR";"SUR";740;"NS";"Suriname";"Suriname";"Paramaribo";"South America";"SRD";"Dollar";597;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";1;0;0;163270.0;492829
+"SJ";"SJM";744;"SV";"Svalbard and Jan Mayen";"Svalbard and Jan Mayen Islands";"Longyearbyen";"Europe";"NOK";"Krone";47;150;"Europe";154;"Northern Europe";0;"";"Territory of NO";"Developed";0;0;0;62049.0;2550
+"SZ";"SWZ";748;"WZ";"Swaziland";"Eswatini";"Mbabane";"Africa";"SZL";"Lilangeni";268;2;"Africa";202;"Sub-Saharan Africa";18;"Southern Africa";"Independent";"Developing";0;1;0;17363.0;1354051
+"SE";"SWE";752;"SW";"Sweden";"Sweden";"Stockholm";"Europe";"SEK";"Krona";46;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;449964.0;9828655
+"CH";"CHE";756;"SZ";"Switzerland";"Switzerland";"Bern";"Europe";"CHF";"Franc";41;150;"Europe";155;"Western Europe";0;"";"Independent";"Developed";0;0;0;41290.0;7581000
+"SY";"SYR";760;"SY";"Syria";"Syrian Arab Republic";"Damascus";"Asia";"SYP";"Pound";963;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;185180.0;22198110
+"TJ";"TJK";762;"TI";"Tajikistan";"Tajikistan";"Dushanbe";"Asia";"TJS";"Somoni";992;142;"Asia";143;"Central Asia";0;"";"Independent";"Developing";0;1;0;143100.0;7487489
+"TH";"THA";764;"TH";"Thailand";"Thailand";"Bangkok";"Asia";"THB";"Baht";66;142;"Asia";35;"South-eastern Asia";0;"";"Independent";"Developing";0;0;0;514000.0;67089500
+"TG";"TGO";768;"TO";"Togo";"Togo";"Lome";"Africa";"XOF";"Franc";228;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;0;1;56785.0;6587239
+"TK";"TKL";772;"TL";"Tokelau";"Tokelau";"";"Oceania";"NZD";"Dollar";690;9;"Oceania";61;"Polynesia";0;"";"Territory of NZ";"Developing";0;0;0;10.0;1466
+"TO";"TON";776;"TN";"Tonga";"Tonga";"Nuku'alofa";"Oceania";"TOP";"Pa'anga";676;9;"Oceania";61;"Polynesia";0;"";"Independent";"Developing";1;0;0;748.0;122580
+"TT";"TTO";780;"TD";"Trinidad and Tobago";"Trinidad and Tobago";"Port of Spain";"North America";"TTD";"Dollar";-867;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Independent";"Developing";1;0;0;5128.0;1328019
+"AE";"ARE";784;"AE";"United Arab Emirates";"United Arab Emirates";"Abu Dhabi";"Asia";"AED";"Dirham";971;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;82880.0;4975593
+"TN";"TUN";788;"TS";"Tunisia";"Tunisia";"Tunis";"Africa";"TND";"Dinar";216;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;0;163610.0;10589025
+"TR";"TUR";792;"TU";"Turkey";"Turkey";"Ankara";"Asia";"TRY";"Lira";90;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;0;780580.0;77804122
+"TM";"TKM";795;"TX";"Turkmenistan";"Turkmenistan";"Ashgabat";"Asia";"TMT";"Manat";993;142;"Asia";143;"Central Asia";0;"";"Independent";"Developing";0;1;0;488100.0;4940916
+"TC";"TCA";796;"TK";"Turks and Caicos Islands";"Turks and Caicos Islands";"Cockburn Town";"North America";"USD";"Dollar";-648;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of GB";"Developing";0;0;0;430.0;20556
+"TV";"TUV";798;"TV";"Tuvalu";"Tuvalu";"Funafuti";"Oceania";"AUD";"Dollar";688;9;"Oceania";61;"Polynesia";0;"";"Independent";"Developing";1;0;1;26.0;10472
+"UG";"UGA";800;"UG";"Uganda";"Uganda";"Kampala";"Africa";"UGX";"Shilling";256;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;236040.0;33398682
+"UA";"UKR";804;"UP";"Ukraine";"Ukraine";"Kyiv";"Europe";"UAH";"Hryvnia";380;150;"Europe";151;"Eastern Europe";0;"";"Independent";"Developed";0;0;0;603700.0;45415596
+"MK";"MKD";807;"MK";"Macedonia";"The former Yugoslav Republic of Macedonia";"Skopje";"Europe";"MKD";"Denar";389;150;"Europe";39;"Southern Europe";0;"";"Independent";"Developed";0;1;0;25333.0;2062294
+"EG";"EGY";818;"EG";"Egypt";"Egypt";"Cairo";"Africa";"EGP";"Pound";20;2;"Africa";15;"Northern Africa";0;"";"Independent";"Developing";0;0;0;1001450.0;80471869
+"GB";"GBR";826;"UK";"United Kingdom";"United Kingdom of Great Britain and Northern Ireland";"London";"Europe";"GBP";"Pound";44;150;"Europe";154;"Northern Europe";0;"";"Independent";"Developed";0;0;0;244820.0;62348447
+"GG";"GGY";831;"GK";"Guernsey";"Guernsey";"St Peter Port";"Europe";"GBP";"Pound";-1437;150;"Europe";154;"Northern Europe";830;"Channel Islands";"Crown dependency of GB";"Developed";0;0;0;78.0;65228
+"JE";"JEY";832;"JE";"Jersey";"Jersey";"Saint Helier";"Europe";"GBP";"Pound";-1490;150;"Europe";154;"Northern Europe";830;"Channel Islands";"Crown dependency of GB";"Developed";0;0;0;116.0;90812
+"IM";"IMN";833;"IM";"Isle of Man";"Isle of Man";"Douglas";"Europe";"GBP";"Pound";-1580;150;"Europe";154;"Northern Europe";0;"";"Crown dependency of GB";"Developed";0;0;0;572.0;75049
+"TZ";"TZA";834;"TZ";"Tanzania";"United Republic of Tanzania";"Dodoma";"Africa";"TZS";"Shilling";255;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;0;1;945087.0;41892895
+"US";"USA";840;"US";"United States";"United States of America";"Washington";"North America";"USD";"Dollar";1;19;"Americas";21;"Northern America";0;"";"Independent";"Developed";0;0;0;9629090.0;310232863
+"VI";"VIR";850;"VQ";"U.S. Virgin Islands";"United States Virgin Islands";"Charlotte Amalie";"North America";"USD";"Dollar";-339;19;"Americas";419;"Latin America and the Caribbean";29;"Caribbean";"Territory of US";"Developing";1;0;0;352.0;108708
+"BF";"BFA";854;"UV";"Burkina Faso";"Burkina Faso";"Ouagadougou";"Africa";"XOF";"Franc";226;2;"Africa";202;"Sub-Saharan Africa";11;"Western Africa";"Independent";"Developing";0;1;1;274200.0;16241811
+"UY";"URY";858;"UY";"Uruguay";"Uruguay";"Montevideo";"South America";"UYU";"Peso";598;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;176220.0;3477000
+"UZ";"UZB";860;"UZ";"Uzbekistan";"Uzbekistan";"Tashkent";"Asia";"UZS";"Som";998;142;"Asia";143;"Central Asia";0;"";"Independent";"Developing";0;1;0;447400.0;27865738
+"VE";"VEN";862;"VE";"Venezuela";"Venezuela (Bolivarian Republic of)";"Caracas";"South America";"VES";"Bolivar Soberano";58;19;"Americas";419;"Latin America and the Caribbean";5;"South America";"Independent";"Developing";0;0;0;912050.0;27223228
+"WF";"WLF";876;"WF";"Wallis and Futuna";"Wallis and Futuna Islands";"Mata Utu";"Oceania";"XPF";"Franc";681;9;"Oceania";61;"Polynesia";0;"";"Territory of FR";"Developing";0;0;0;274.0;16025
+"WS";"WSM";882;"WS";"Samoa";"Samoa";"Apia";"Oceania";"WST";"Tala";685;9;"Oceania";61;"Polynesia";0;"";"Independent";"Developing";1;0;0;2944.0;192001
+"YE";"YEM";887;"YM";"Yemen";"Yemen";"Sanaa";"Asia";"YER";"Rial";967;142;"Asia";145;"Western Asia";0;"";"Independent";"Developing";0;0;1;527970.0;23495361
+"CS";"SCG";891;"YI";"Serbia and Montenegro";"";"Belgrade";"Europe";"RSD";"Dinar";381;0;"";0;"";0;"";"";"";0;0;0;102350.0;10829175
+"ZM";"ZMB";894;"ZA";"Zambia";"Zambia";"Lusaka";"Africa";"ZMW";"Kwacha";260;2;"Africa";202;"Sub-Saharan Africa";14;"Eastern Africa";"Independent";"Developing";0;1;1;752614.0;13460305

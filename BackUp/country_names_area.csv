@@ -1,0 +1,227 @@
+"iso_code";"country_code";"country_name";"country_area"
+0;"KV";"Kosovo";10887.0
+4;"AF";"Afghanistan";652230.0
+8;"AL";"Albania";27398.0
+12;"AG";"Algeria";2381740.0
+16;"AQ";"American Samoa";199.0
+20;"AN";"Andorra";468.0
+24;"AO";"Angola";1246700.0
+28;"AC";"Antigua and Barbuda";442.6
+31;"AJ";"Azerbaijan";82629.0
+32;"AR";"Argentina";2736690.0
+36;"AS";"Australia";7682300.0
+40;"AU";"Austria";82445.0
+44;"BF";"Bahamas The";10010.0
+48;"BA";"Bahrain";760.0
+50;"BG";"Bangladesh";130170.0
+51;"AM";"Armenia";28203.0
+52;"BB";"Barbados";430.0
+56;"BE";"Belgium";30278.0
+60;"BD";"Bermuda";54.0
+64;"BT";"Bhutan";38394.0
+68;"BL";"Bolivia";1083300.0
+70;"BK";"Bosnia and Herzegovina";51187.0
+72;"BC";"Botswana";566730.0
+76;"BR";"Brazil";8358140.0
+84;"BH";"Belize";22806.0
+90;"BP";"Solomon Islands";27986.0
+92;"VI";"Virgin Islands British";151.0
+96;"BX";"Brunei";5265.0
+100;"BU";"Bulgaria";108489.0
+104;"BM";"Burma";653508.0
+108;"BY";"Burundi";25680.0
+112;"BO";"Belarus";202900.0
+116;"CB";"Cambodia";176515.0
+120;"CM";"Cameroon";472710.0
+124;"CA";"Canada";9093510.0
+132;"CV";"Cabo Verde";4033.0
+136;"CJ";"Cayman Islands";264.0
+140;"CT";"Central African Republic";622984.0
+144;"CE";"Sri Lanka";64630.0
+148;"CD";"Chad";1259200.0
+152;"CI";"Chile";743812.0
+156;"CH";"China";9326410.0
+158;"TW";"Taiwan";32260.0
+170;"CO";"Colombia";1038700.0
+174;"CN";"Comoros";2235.0
+178;"CF";"Congo (Brazzaville)";341500.0
+180;"CG";"Congo (Kinshasa)";2267050.0
+184;"CW";"Cook Islands";236.0
+188;"CS";"Costa Rica";51060.0
+191;"HR";"Croatia";55974.0
+192;"CU";"Cuba";109820.0
+196;"CY";"Cyprus";9241.0
+203;"EZ";"Czechia";77247.0
+204;"BN";"Benin";110622.0
+208;"DA";"Denmark";42434.0
+212;"DO";"Dominica";751.0
+214;"DR";"Dominican Republic";48320.0
+218;"EC";"Ecuador";276841.0
+222;"ES";"El Salvador";20721.0
+226;"EK";"Equatorial Guinea";28051.0
+231;"ET";"Ethiopia";1000000.0
+232;"ER";"Eritrea";101000.0
+233;"EN";"Estonia";42388.0
+234;"FO";"Faroe Islands";1393.0
+242;"FJ";"Fiji";18274.0
+246;"FI";"Finland";303815.0
+250;"FR";"France";640427.0
+258;"FP";"French Polynesia";3827.0
+262;"DJ";"Djibouti";23180.0
+266;"GB";"Gabon";257667.0
+268;"GG";"Georgia";69700.0
+270;"GA";"Gambia The";10120.0
+276;"GM";"Germany";348672.0
+288;"GH";"Ghana";227533.0
+292;"GI";"Gibraltar";6.5
+296;"KR";"Kiribati";811.0
+300;"GR";"Greece";130647.0
+304;"GL";"Greenland";2166090.0
+308;"GJ";"Grenada";344.0
+316;"GQ";"Guam";544.0
+320;"GT";"Guatemala";107159.0
+324;"GV";"Guinea";245717.0
+328;"GY";"Guyana";196849.0
+332;"HA";"Haiti";27560.0
+340;"HO";"Honduras";111890.0
+344;"HK";"Hong Kong";1073.0
+348;"HU";"Hungary";89608.0
+352;"IC";"Iceland";100250.0
+356;"IN";"India";2973190.0
+360;"ID";"Indonesia";1811570.0
+364;"IR";"Iran";1531600.0
+368;"IZ";"Iraq";437367.0
+372;"EI";"Ireland";68883.0
+376;"IS";"Israel";20330.0
+380;"IT";"Italy";294140.0
+384;"IV";"Cote d'Ivoire";318003.0
+388;"JM";"Jamaica";10831.0
+392;"JA";"Japan";364485.0
+398;"KZ";"Kazakhstan";2699700.0
+400;"JO";"Jordan";88802.0
+404;"KE";"Kenya";569140.0
+408;"KN";"Korea North";120408.0
+410;"KS";"Korea South";96920.0
+414;"KU";"Kuwait";17818.0
+417;"KG";"Kyrgyzstan";191801.0
+418;"LA";"Laos";230800.0
+422;"LE";"Lebanon";10230.0
+426;"LT";"Lesotho";30355.0
+428;"LG";"Latvia";62249.0
+430;"LI";"Liberia";96320.0
+434;"LY";"Libya";1759540.0
+438;"LS";"Liechtenstein";160.0
+440;"LH";"Lithuania";62680.0
+442;"LU";"Luxembourg";2586.0
+446;"MC";"Macau";28.2
+450;"MA";"Madagascar";581540.0
+454;"MI";"Malawi";94080.0
+458;"MY";"Malaysia";328657.0
+462;"MV";"Maldives";298.0
+466;"ML";"Mali";1220190.0
+470;"MT";"Malta";316.0
+478;"MR";"Mauritania";1030700.0
+480;"MP";"Mauritius";2030.0
+484;"MX";"Mexico";1943940.0
+492;"MN";"Monaco";2.0
+496;"MG";"Mongolia";1553560.0
+498;"MD";"Moldova";32891.0
+499;"MJ";"Montenegro";13452.0
+500;"MH";"Montserrat";102.0
+504;"MO";"Morocco";446300.0
+508;"MZ";"Mozambique";786380.0
+512;"MU";"Oman";309500.0
+516;"WA";"Namibia";823290.0
+520;"NR";"Nauru";21.0
+524;"NP";"Nepal";143351.0
+528;"NL";"Netherlands";33893.0
+531;"UC";"Curacao";444.0
+533;"AA";"Aruba";180.0
+534;"NN";"Sint Maarten";34.0
+540;"NC";"New Caledonia";18275.0
+548;"NH";"Vanuatu";12189.0
+554;"NZ";"New Zealand";264537.0
+558;"NU";"Nicaragua";119990.0
+562;"NG";"Niger";1266700.0
+566;"NI";"Nigeria";910768.0
+578;"NO";"Norway";304282.0
+580;"CQ";"Northern Mariana Islands";464.0
+583;"FM";"Micronesia Federated States of";702.0
+584;"RM";"Marshall Islands";181.0
+585;"PS";"Palau";459.0
+586;"PK";"Pakistan";770875.0
+591;"PM";"Panama";74340.0
+598;"PP";"Papua New Guinea";452860.0
+600;"PA";"Paraguay";397302.0
+604;"PE";"Peru";1280000.0
+608;"RP";"Philippines";298170.0
+616;"PL";"Poland";304255.0
+620;"PO";"Portugal";91470.0
+624;"PU";"Guinea-Bissau";28120.0
+626;"TT";"Timor-Leste";14874.0
+630;"RQ";"Puerto Rico";8870.0
+634;"QA";"Qatar";11586.0
+642;"RO";"Romania";229891.0
+643;"RS";"Russia";16377700.0
+646;"RW";"Rwanda";24668.0
+652;"TB";"Saint Barthelemy";25.0
+654;"SH";"Saint Helena";308.0
+659;"SC";"Saint Kitts and Nevis";261.0
+660;"AV";"Anguilla";91.0
+662;"ST";"Saint Lucia";606.0
+663;"RN";"Saint Martin";54.4
+666;"SB";"Saint Pierre and Miquelon";242.0
+670;"VC";"Saint Vincent and the Grenadines";389.0
+674;"SM";"San Marino";61.0
+678;"TP";"Sao Tome and Principe";964.0
+682;"SA";"Saudi Arabia";2149690.0
+686;"SG";"Senegal";192530.0
+688;"RI";"Serbia";77474.0
+690;"SE";"Seychelles";455.0
+694;"SL";"Sierra Leone";71620.0
+702;"SN";"Singapore";687.0
+703;"LO";"Slovakia";48105.0
+704;"VM";"Vietnam";310070.0
+705;"SI";"Slovenia";20151.0
+706;"SO";"Somalia";627337.0
+710;"SF";"South Africa";1214470.0
+716;"ZI";"Zimbabwe";386847.0
+724;"SP";"Spain";498980.0
+728;"OD";"South Sudan";644329.0
+729;"SU";"Sudan";1861480.0
+732;"WI";"Western Sahara";266000.0
+740;"NS";"Suriname";156000.0
+748;"WZ";"Swaziland";17204.0
+752;"SW";"Sweden";410335.0
+756;"SZ";"Switzerland";39997.0
+760;"SY";"Syria";183630.0
+762;"TI";"Tajikistan";141510.0
+764;"TH";"Thailand";510890.0
+768;"TO";"Togo";54385.0
+776;"TN";"Tonga";717.0
+780;"TD";"Trinidad and Tobago";5128.0
+784;"AE";"United Arab Emirates";83600.0
+788;"TS";"Tunisia";155360.0
+792;"TU";"Turkey";769632.0
+795;"TX";"Turkmenistan";469930.0
+796;"TK";"Turks and Caicos Islands";948.0
+798;"TV";"Tuvalu";26.0
+800;"UG";"Uganda";197100.0
+804;"UP";"Ukraine";579330.0
+807;"MK";"Macedonia";25433.0
+818;"EG";"Egypt";995450.0
+826;"UK";"United Kingdom";241930.0
+831;"GK";"Guernsey";78.0
+832;"JE";"Jersey";116.0
+833;"IM";"Isle of Man";572.0
+834;"TZ";"Tanzania";885800.0
+840;"US";"United States";9147590.0
+850;"VQ";"Virgin Islands U.S.";346.0
+854;"UV";"Burkina Faso";273800.0
+858;"UY";"Uruguay";175015.0
+860;"UZ";"Uzbekistan";425400.0
+862;"VE";"Venezuela";882050.0
+876;"WF";"Wallis and Futuna";142.0
+882;"WS";"Samoa";2821.0
+887;"YM";"Yemen";527968.0
+894;"ZA";"Zambia";743398.0
