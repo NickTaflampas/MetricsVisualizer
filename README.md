@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img height=170 src="https://cdn.discordapp.com/attachments/811721979539095563/1112397642627043429/yes.png"/> 
+    <img height=200 src="icon.png"/> 
 </p>
 <h1> <div align="center">Country Metric Visualizer</div> </h1>
 This is a completed project on the course of Advanced Topics in Database Technology and Applications. The goal of this project, is to manage a large amount of data, which is filtered, processed and visualized on the user's demand. This project makes use of the JavaFX Library for the visualization, as well as some minor libraries for reading the requested documents.
