@@ -54,17 +54,17 @@ Lastly, change some final variables from within the code. One should have the fo
 There is merit into making a config file for easier access, but for now:
 <h3> Preprocessing.java </h3>
 <p> 
-    <img src="https://cdn.discordapp.com/attachments/473464812920373250/1112406421921874040/image.png"/> 
+    <img src="indata1.png"/> 
 </p>
 
 <h3> DDL.java </h3>
 <p> 
-    <img src="https://cdn.discordapp.com/attachments/473464812920373250/1112406565178318878/image.png"/> 
+    <img src="indata2.png"/> 
 </p>
 
 <h3> PlotController.java </h3>
 <p> 
-    <img src="https://cdn.discordapp.com/attachments/473464812920373250/1112406689845624872/image.png"/> 
+    <img src="indata3.png"/>  
 </p>
 
 <h1> <div align="center"> Video Demo </div> </h1>
